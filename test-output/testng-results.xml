@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-27T04:48:01Z" name="Default suite" finished-at="2022-12-27T04:48:27Z" duration-ms="26331">
+    <groups>
+    </groups>
+    <test started-at="2022-12-27T04:48:01Z" name="Default test" finished-at="2022-12-27T04:48:27Z" duration-ms="26331">
+      <class name="com.crm.qa.testcases.EditPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.EditPageTest@3f792b9b]" started-at="2022-12-27T10:18:01Z" name="setup" finished-at="2022-12-27T10:18:18Z" duration-ms="17673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scrollSendKeysTest()[pri:3, instance:com.crm.qa.testcases.EditPageTest@3f792b9b]" started-at="2022-12-27T10:18:19Z" name="scrollSendKeysTest" finished-at="2022-12-27T10:18:27Z" duration-ms="7799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollSendKeysTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.EditPageTest@3f792b9b]" started-at="2022-12-27T10:18:27Z" name="tearDown" finished-at="2022-12-27T10:18:27Z" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.EditPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
